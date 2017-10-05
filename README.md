@@ -4,7 +4,7 @@ I will use this repository to store technical drawings of the ADF7021 RF Module
 
 ### Images
 
-![Dimensions](images/ADF7021.png?raw=true "ADF7021")
+![Dimensions](ADF7021.png?raw=true "ADF7021")
 
 ### Done
 
